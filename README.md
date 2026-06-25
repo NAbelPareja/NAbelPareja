@@ -20,7 +20,7 @@ Apasionado por construir aplicaciones web modernas, intuitivas y responsivas uti
 
 📚 Siempre aprendiendo nuevas tecnologías y mejores prácticas de desarrollo.
 
-📫 Contacto: **[n.abelpareja@gmail.com](mailto:n.abelpareja@gmail.com)**
+📫 Contacto: [**n.abelpareja@gmail.com**](mailto:n.abelpareja@gmail.com)
 
 ---
 

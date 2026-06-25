@@ -39,7 +39,7 @@ Aplicación web desarrollada con React para administrar ingresos y gastos person
 * ✅ Persistencia con LocalStorage
 * ✅ Diseño responsive con Tailwind CSS
 
-🔗 Proyecto en Netlify: [https://gastosper.netlify.app/reportes]
+🔗 Desplegado en: **[Netlify](https://gastosper.netlify.app/)**
 
 🔗 Repositorio: [Enlace aquí]
 
@@ -91,7 +91,7 @@ Aplicación web desarrollada con React para administrar ingresos y gastos person
 
 <p align="center">
 
-<a href="www.linkedin.com/in/abelpareja">
+<a href="https://www.linkedin.com/in/abelpareja/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 

@@ -1,24 +1,17 @@
 <p align="center">
   <img src="./cc1a14a2-a135-4369-b4cf-3724acf02fae.png" width="100%" />
 </p>
+¡Hola! Soy Abel Pareja 👋
+Desarrollador Full Stack (.NET Core & React) | Ingeniero de Sistemas
 
-<p align="center">
-Apasionado por construir aplicaciones web modernas, intuitivas y responsivas utilizando React, JavaScript y tecnologías web actuales.
-</p>
+Apasionado por construir soluciones integrales, desde el diseño de interfaces web modernas y responsivas con **React**, hasta arquitecturas backend escalables, seguras y de alto rendimiento utilizando **.NET 8 (C#)** y **SQL Server**.
 
----
+## 👨‍💻 Sobre mí
 
-# 👨‍💻 Sobre mí
-
-💡 Me apasiona desarrollar aplicaciones web modernas y resolver problemas mediante software.
-
-🌱 Actualmente fortaleciendo mis conocimientos en React, arquitectura frontend, consumo de APIs .
-
-🎨 Interesado en UI/UX, Figma y experiencias de usuario intuitivas.
-
-🚀 Me gusta crear proyectos personales que resuelvan problemas reales.
-
-📚 Siempre aprendiendo nuevas tecnologías y mejores prácticas de desarrollo.
+* 🚀 **Desarrollo Full Stack:** Especializado en el ecosistema **.NET (C#) para el Backend** y **React para el Frontend**, creando aplicaciones comerciales e interconectadas de extremo a extremo.
+* 🛡️ **Seguridad e Integridad:** Experiencia implementando autenticación perimetral basada en roles mediante **JWT (JSON Web Tokens)** y hashing de contraseñas con **BCrypt**.
+* 📊 **Lógica de Negocio Avanzada:** Capacidad para diseñar bases de datos relacionales robustas en **SQL Server**, manejando transacciones complejas, control de inventarios físicos (Kardex) y consistencia relacional.
+* ⚙️ **Arquitectura Limpia:** Aplicación del patrón **Repository**, asincronismo nativo (`async/await`) y DTOs para optimizar el rendimiento y la transferencia de datos en la red.
 
 📫 Contacto: [**n.abelpareja@gmail.com**](mailto:n.abelpareja@gmail.com)
 
@@ -46,6 +39,10 @@ Aplicación web desarrollada con React para administrar ingresos y gastos person
 ---
 
 # 🛠 Tecnologías y Herramientas
+
+
+### Backend
+![C#](https://shields.io) ![.NET Core](https://shields.io)
 
 ## Frontend
 
@@ -77,13 +74,14 @@ Aplicación web desarrollada con React para administrar ingresos y gastos person
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAbelPareja&layout=compact&theme=tokyonight" />
 </p>
 
-# 🎯 Objetivos Actuales
+## 🎯 Objetivos Actuales
 
-* 🚀 Conseguir mi primera oportunidad profesional como Frontend Developer.
-* 📚 Profundizar en React y arquitectura de aplicaciones.
-* ☁️ Aprender despliegue y servicios Cloud.
-* 🔧 Desarrollar proyectos Full Stack.
-* 🌎 Construir un portafolio sólido.
+* 💼 **Conseguir oportunidades profesionales como Desarrollador Full Stack (.NET / React).**
+* 🏗️ Profundizar en la implementación de Arquitecturas Limpias y patrones de diseño en el Backend.
+* ☁️ Aprender sobre despliegues automatizados (CI/CD) y servicios Cloud (Azure / AWS).
+* 📱 Optimizar el consumo de APIs complejas y optimización de rendimiento en el Frontend.
+* 🎓 Continuar expandiendo mi portafolio con sistemas transaccionales y comerciales de alto impacto.
+
 
 ---
 

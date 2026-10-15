@@ -34,15 +34,25 @@ Aplicación web desarrollada con React para administrar ingresos y gastos person
 
 🔗 Desplegado en: **[Netlify](https://gastosper.netlify.app/)**
 
-🔗 Repositorio: [Enlace aquí]
+
+### 🏪 Sistema ERP & Control de Inventariado Transaccional (Backend Principal)
+*Aplicación empresarial robusta desarrollada con **.NET 8** y **SQL Server** para la gestión logística avanzada y control de existencias en tiempo real de una distribuidora comercial.*
+
+* **Arquitectura & Patrones:** Implementación del patrón **Repository** asíncrono con Entity Framework Core bajo un diseño de arquitectura limpia y eficiente transferencia de datos mediante **DTOs**.
+* **Integridad y Transacciones (ACID):** Lógica transaccional compuesta en cascada (*Maestro-Detalle*) respaldada por bloques de seguridad `BeginTransactionAsync`, `Commit` y `Rollback` para garantizar la consistencia absoluta de datos en compras y ventas.
+* **Módulo Logístico Avanzado (Kardex):** Automatización de entradas y salidas físicas de mercadería directo en la tabla `Inventario` y registro histórico lineal de auditoría en el Kardex electrónico (`MovimientoInventario`).
+* **Seguridad Perimetral:** Autenticación y autorización basada en jerarquía estricta de roles utilizando **JWT Bearer Tokens** y hashing criptográfico de contraseñas con **BCrypt**.
+* **Garantía Operativa:** Implementación de **Borrado Lógico** (*Soft Delete*) en tablas maestras para proteger los históricos contables y aduanas de control perimetral para evitar sobreventas o stocks negativos.
+* **Documentación:** API documentada de forma interactiva con **Swagger** y flujos automatizados de prueba con **Postman**.
 
 ---
 
 # 🛠 Tecnologías y Herramientas
 
-
 ### Backend
-![C#](https://shields.io) ![.NET Core](https://shields.io)
+![C#](https://shields.io\&logo=c-sharp\&logoColor=white)
+![.NET](https://shields.io\&logo=.net\&logoColor=white)
+
 
 ## Frontend
 
